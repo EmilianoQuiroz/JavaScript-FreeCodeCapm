@@ -74,7 +74,14 @@ Roadmap para dominar Typescript
 - Clases abstractas
 - Constructores privados.
 
-### Interfaces
-- NameSpaces
+### Interfaces:
+- ¿Por qué es necesario una interfaz?
+- ¿Cómo creamos una interfaz básica?
+- Crear propiedades opcionales
+- Crear métodos
+- Asignar interfaces a las clases
+
+### NameSpaces:
+
 - Genericos
 - Decoradores
