@@ -96,3 +96,12 @@ Roadmap para dominar Typescript
 - Clases genéricas
 
 ### Decoradores
+- ¿Qué son los decoradores?
+- ¿Para qué sirven?
+- Decoradores de clases
+- Decoradores de fabrica
+- Ejemplos prácticos
+- Decoradores anidados
+- Decoradores de métodos
+- Decoradores de propiedades
+- Decoradores de parámetros
