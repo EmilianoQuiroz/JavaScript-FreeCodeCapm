@@ -18,7 +18,13 @@ Roadmap para dominar Typescript
 - Null
 - Undefined
 ### Funciones y objetos
-- Objetos y tipos personalizados
+- Declaraciones básicas de funciones
+- Parámetros obligatorios
+- Parámetros opcionales
+- Parámetros por defecto
+- Parámetros REST
+- Tipo de datos "Function"
+### Objetos y tipos personalizados
 - Depuracion de errores y archivo tsconfig.json
 - Interfaces
 - NameSpaces
