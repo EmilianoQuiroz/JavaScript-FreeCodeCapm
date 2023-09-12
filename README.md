@@ -82,6 +82,11 @@ Roadmap para dominar Typescript
 - Asignar interfaces a las clases
 
 ### NameSpaces:
+- ¿Por qué es necesario una interfaz?
+- ¿Cómo creamos una interfaz básica?
+- Crear propiedades opcionales
+- Crear métodos
+- Asignar interfaces a las clases
 
-- Genericos
+### Genericos
 - Decoradores
