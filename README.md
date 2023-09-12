@@ -32,7 +32,14 @@ Roadmap para dominar Typescript
 - Crear variables que soporten varios tipos a la vez.
 - Comprobar el tipo de un objeto.
 ### Depuracion de errores y archivo tsconfig.json
-- Interfaces
+- Aprenderemos el ¿por qué siempre compila a JavaScript?
+- Para que nos puede servir el archivo de configuración de TypeScript
+- Realizaremos depuración de errores directamente a nuestros archivos de TypeScript
+- Removeremos todos los comentarios en nuestro archivo de producción.
+- Restringiremos al compilador que sólo vea ciertos archivos o carpetas
+- Crearemos un archivo final de salida
+- Aprenderemos a cambiar la version de JavaScript de salida
+### Interfaces
 - NameSpaces
 - Genericos
 - Decoradores
