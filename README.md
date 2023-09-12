@@ -55,6 +55,25 @@ Roadmap para dominar Typescript
 - Conocer sobre la programación orientada a objetos
 - Clases
 
+### Clases en TypeScript:
+- Crear clases en TypeScript
+- Constructores
+- Accesibilidad de las propiedades:
+  - Públicas
+  - Privadas
+  - Protegidas
+- Métodos de las clases que pueden ser:
+  - Públicos
+  - Privados
+  - Protegidos
+- Herencia
+- Llamar funciones del padre, desde los hijos
+- Getters 
+- Setters
+- Métodos y propiedades estáticas
+- Clases abstractas
+- Constructores privados.
+
 ### Interfaces
 - NameSpaces
 - Genericos
