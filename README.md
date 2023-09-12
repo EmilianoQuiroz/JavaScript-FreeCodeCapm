@@ -88,5 +88,11 @@ Roadmap para dominar Typescript
 - Crear métodos
 - Asignar interfaces a las clases
 
-### Genericos
-- Decoradores
+### Genericos:
+- Uso de los genéricos
+- Funciones genéricas
+- Ejemplos prácticos sobre los genéricos
+- Arreglos genéricos
+- Clases genéricas
+
+### Decoradores
